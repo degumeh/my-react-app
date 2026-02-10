@@ -8,7 +8,7 @@ A simple React application deployed on Vercel.
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/my-react-app.git
+git clone https://github.com/degumeh/my-react-app.git
 cd my-react-app
 npm install
 npm start
